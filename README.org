@@ -1,2 +1,7 @@
 * RISC-V Core
-An implementation of the RISC-V ISA (RV64I)
+An implementation of the RISC-V ISA
+
+** Design Goals
+The overall goal of this project is to research the capabilty of
+building a risc-v softcore with the draft hypervisor extension (0.6.1)
+that can be implemented on an fpga.
